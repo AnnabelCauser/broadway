@@ -28,20 +28,19 @@ h3 {
   font-weight: bold;
 }
 
-h4 {
-  font-size: 18px;
-  font-colour: white;
-}
-
 p {
   font-size: 14px;
 }
 
 .CTA {
   color: white;
-  text-align: left;
 }
 
 .footer {
   background-color: dimgray;
+    text-align: left;
+}
+
+.header p {
+  font-size: 17px;
 }
